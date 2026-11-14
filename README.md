@@ -1,3 +1,8 @@
+## 📊 Interactive Dashboard
+
+[**View Retail Order Fulfillment Dashboard**](https://hayd0623.github.io/retail-order-fulfillment-optimization/dashboard.html)
+
+Explore fulfillment KPIs, pickup delays, shift performance, and operational insights from a synthetic dataset of 1,000 retail orders.
 ## Tools & Skills Used
 
 - PostgreSQL
@@ -20,12 +25,12 @@
 
 ### Customer Wait Times
 
-- Evening shift had the highest percentage of orders exceeding a 10-minute wait threshold at 62.96%.
+- The evening shift had the highest late-order rate at 62.96%, with an average customer wait time of 12.17 minutes.
 - Evening fulfillment performance may require further investigation.
 
 ### Picking Performance
 
-- Morning shift had the highest average picking time at 23.25 minutes.
+- The afternoon shift had the highest average picking time at 23.25 minutes.
 - Picking efficiency may be affected by order complexity and staffing.
 
 ### Late Orders
